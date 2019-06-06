@@ -1,0 +1,17 @@
+#body-outline {
+    border: 1px solid #ECF4EF;
+    border-radius: 5px;
+}
+
+.btn {
+    color: white;
+    background-color: #301504;
+}
+
+.btn:hover {
+    color: grey;
+}
+
+input.radio:hover{ 
+    border-color: cyan;
+}
